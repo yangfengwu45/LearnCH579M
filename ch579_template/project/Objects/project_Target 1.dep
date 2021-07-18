@@ -1,0 +1,510 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (..\user\main.c)(0x60F454BA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_adc.c)(0x5E912E5E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_adc.o --omf_browse .\objects\ch57x_adc.crf --depend .\objects\ch57x_adc.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_clk.c)(0x5FA90656)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_clk.o --omf_browse .\objects\ch57x_clk.crf --depend .\objects\ch57x_clk.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_flash.c)(0x5E9515E2)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_flash.o --omf_browse .\objects\ch57x_flash.crf --depend .\objects\ch57x_flash.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_gpio.c)(0x5EA12E4A)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_gpio.o --omf_browse .\objects\ch57x_gpio.crf --depend .\objects\ch57x_gpio.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_int.c)(0x5F62FE34)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_int.o --omf_browse .\objects\ch57x_int.crf --depend .\objects\ch57x_int.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_lcd.c)(0x5C6CECBA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_lcd.o --omf_browse .\objects\ch57x_lcd.crf --depend .\objects\ch57x_lcd.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_pwm.c)(0x5C2C1936)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_pwm.o --omf_browse .\objects\ch57x_pwm.crf --depend .\objects\ch57x_pwm.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_pwr.c)(0x5F335F96)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_pwr.o --omf_browse .\objects\ch57x_pwr.crf --depend .\objects\ch57x_pwr.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_spi0.c)(0x5F3CEBC0)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_spi0.o --omf_browse .\objects\ch57x_spi0.crf --depend .\objects\ch57x_spi0.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_spi1.c)(0x5CC6A0FE)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_spi1.o --omf_browse .\objects\ch57x_spi1.crf --depend .\objects\ch57x_spi1.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_sys.c)(0x5DD287C2)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_sys.o --omf_browse .\objects\ch57x_sys.crf --depend .\objects\ch57x_sys.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_timer0.c)(0x5FC733BE)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_timer0.o --omf_browse .\objects\ch57x_timer0.crf --depend .\objects\ch57x_timer0.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_timer1.c)(0x5FC733BE)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_timer1.o --omf_browse .\objects\ch57x_timer1.crf --depend .\objects\ch57x_timer1.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_timer2.c)(0x5FC733E4)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_timer2.o --omf_browse .\objects\ch57x_timer2.crf --depend .\objects\ch57x_timer2.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_timer3.c)(0x5FC733E4)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_timer3.o --omf_browse .\objects\ch57x_timer3.crf --depend .\objects\ch57x_timer3.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_uart0.c)(0x5DAEC5AA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_uart0.o --omf_browse .\objects\ch57x_uart0.crf --depend .\objects\ch57x_uart0.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_uart1.c)(0x60F450AF)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_uart1.o --omf_browse .\objects\ch57x_uart1.crf --depend .\objects\ch57x_uart1.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_uart2.c)(0x5DAEC5DC)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_uart2.o --omf_browse .\objects\ch57x_uart2.crf --depend .\objects\ch57x_uart2.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_uart3.c)(0x5DAEC5E2)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_uart3.o --omf_browse .\objects\ch57x_uart3.crf --depend .\objects\ch57x_uart3.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_usbdev.c)(0x5E0564BA)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_usbdev.o --omf_browse .\objects\ch57x_usbdev.crf --depend .\objects\ch57x_usbdev.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+F (..\library\StdPeriphDriver\CH57x_usbhostBase.c)(0x5E6B1E36)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_usbhostbase.o --omf_browse .\objects\ch57x_usbhostbase.crf --depend .\objects\ch57x_usbhostbase.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+I (..\ufi_library\CH579UFI.H)(0x5D7607F0)
+F (..\library\StdPeriphDriver\CH57x_usbhostClass.c)(0x5F2A580C)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch57x_usbhostclass.o --omf_browse .\objects\ch57x_usbhostclass.crf --depend .\objects\ch57x_usbhostclass.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+I (..\ufi_library\CH579UFI.H)(0x5D7607F0)
+F (..\library\Startup\startup_ARMCM0.s)(0x5C4E75E2)(--cpu Cortex-M0 -g --apcs=interwork -I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514"--list .\listings\startup_armcm0.lst --xref -o .\objects\startup_armcm0.o --depend .\objects\startup_armcm0.d)
+F (..\ufi_library\CH579UFI.C)(0x5D76079E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I..\library\StdPeriphDriver\inc -I..\user -I..\ufi_library-I H:\LearnCH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE-I E:\MDK5\ARM\PACK\Keil\WCH57x_DFP\1.1.0-I E:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514"-o .\objects\ch579ufi.o --omf_browse .\objects\ch579ufi.crf --depend .\objects\ch579ufi.d)
+I (..\library\StdPeriphDriver\inc\CH57x_common.h)(0x5E056B0E)
+I (E:\MDK5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (..\library\StdPeriphDriver\inc\CH57x_clk.h)(0x5FA90752)
+I (..\library\StdPeriphDriver\inc\CH579SFR.h)(0x60F44CBD)
+I (E:\MDK5\ARM\CMSIS\Include\core_cm0.h)(0x53463974)
+I (E:\MDK5\ARM\ARMCC\include\stdint.h)(0x5FFC0C31)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (E:\MDK5\ARM\CMSIS\Include\core_cmFunc.h)(0x5D121704)
+I (..\library\StdPeriphDriver\inc\CH57x_uart.h)(0x5CC6B8D4)
+I (..\library\StdPeriphDriver\inc\CH57x_gpio.h)(0x5EA12E30)
+I (..\library\StdPeriphDriver\inc\CH57x_lcd.h)(0x5C6D0596)
+I (..\library\StdPeriphDriver\inc\CH57x_flash.h)(0x5E913D32)
+I (..\library\StdPeriphDriver\inc\CH57x_pwr.h)(0x5E82B97C)
+I (..\library\StdPeriphDriver\inc\CH57x_pwm.h)(0x5C6D059A)
+I (..\library\StdPeriphDriver\inc\CH57x_adc.h)(0x5E912E5C)
+I (..\library\StdPeriphDriver\inc\CH57x_sys.h)(0x5DD28746)
+I (..\library\StdPeriphDriver\inc\CH57x_timer.h)(0x5FC732DC)
+I (..\library\StdPeriphDriver\inc\CH57x_spi.h)(0x5F33B292)
+I (..\library\StdPeriphDriver\inc\CH57x_usbdev.h)(0x5C6D05D0)
+I (..\library\StdPeriphDriver\inc\CH57x_usbhost.h)(0x601CB758)
+I (..\ufi_library\CH579UFI.H)(0x5D7607F0)
+F (..\ufi_library\CH579UFI.lib)(0x5D752580)()
