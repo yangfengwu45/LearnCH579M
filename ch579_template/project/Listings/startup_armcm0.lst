@@ -367,10 +367,9 @@ ARM Macro Assembler    Page 6
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
 ork --depend=.\objects\startup_armcm0.d -o.\objects\startup_armcm0.o -IH:\Learn
-CH579\LearnCH579M\003-新建工程说明\ch579_template\project\RTE -IE:\MDK5\ARM\PAC
-K\Keil\WCH57x_DFP\1.1.0 -IE:\MDK5\ARM\CMSIS\Include --predefine="__UVISION_VERS
-ION SETA 514" --list=.\listings\startup_armcm0.lst ..\library\Startup\startup_A
-RMCM0.s
+CH579\LearnCH579M\ch579_template\project\RTE -IE:\MDK5\ARM\PACK\Keil\WCH57x_DFP
+\1.1.0 -IE:\MDK5\ARM\CMSIS\Include --predefine="__UVISION_VERSION SETA 514" --l
+ist=.\listings\startup_armcm0.lst ..\library\Startup\startup_ARMCM0.s
 
 
 
